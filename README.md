@@ -20,4 +20,4 @@ To keep the foundation strong and minimal, the entire system is built utilizing:
 - `Form1.designer.cs` (Form structure, inputs, buttons, and display grids)
 
 ---
-👨‍💻 Maintained by [FutureWith-SK](https://github.com)
+👨‍💻 Created by [FutureWith-SK](https://github.com)
